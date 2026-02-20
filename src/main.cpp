@@ -8,6 +8,7 @@
  * @details
  * Reads digital touch input from TTP223 sensor
  * and displays structured output via Serial Monitor.
+ *
  */
 
 int led = 13;
