@@ -27,6 +27,6 @@ void loop() {
         Serial.println("Touch");
     } else {
         digitalWrite(led, LOW);
-        Serial.println("NOT Touch");
+        Serial.println("NO Touch");
     }
 }
