@@ -2,7 +2,7 @@
 /**
  * @file main.cpp
  * @brief Embedded Touch Detection System using TTP223
- * @author Praveen Kumar Sharma [Praveen2005OP]
+ * @author Ayush Kumar Sikarwar
  * @date 19-02-2026
  *
  * @details
